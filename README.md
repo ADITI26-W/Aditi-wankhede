@@ -32,3 +32,4 @@ Designing user-centered digital experiences ✨
 ---
 
 ⭐ Thanks for visiting my profile!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
