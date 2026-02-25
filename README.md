@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sejal 👋</h1>
+<h1 align="center">Hi, I'm Aditi👋</h1>
 <h3 align="center">Entry-Level UI/UX Designer</h3>
 
 <p align="center">
@@ -16,15 +16,6 @@ Designing user-centered digital experiences ✨
 ---
 
 ## 🧩 Featured Project
-### UCDM – Local Sweet Shop App
-- Designed a mobile app for discovering & ordering Indian sweets  
-- Targeted users living away from home  
-- Improved accessibility, customization & shop visibility  
-
-**Skills used:**  
-`User Research` `Wireframing` `Prototyping` `Usability Testing`
-
----
 
 ## 🛠 Tools & Skills
 **Design:** Figma, Adobe XD, Sketch, Canva  
@@ -34,8 +25,8 @@ Designing user-centered digital experiences ✨
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: sejalkautkar@gmail.com  
-- 💼 LinkedIn: (add link)  
+- 📧 Email: wankhedeaditi26@gmail.com
+- 💼 LinkedIn: (www.linkedin.com/in/aditi-wankhede-26a09d2001)  
 - 🌐 Portfolio: (add link)
 
 ---
